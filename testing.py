@@ -14,6 +14,7 @@ def moyenne_salaire(s) -> float:
     
 
 st.title("Travail invisible derrière l'IA")
+st.subheader("Réalisée par ABU Bridget et RAHARIMINO Mialy")
 
 st.divider()
 
