@@ -1,10 +1,10 @@
-Pays,Région,Nb_travailleurs,Salaire_heure (en $),Type_tache
-Kenya,Sud,10 000,1.5- 2 ,annotation simple/ modération
-Madagascar,Sud,5 000,1,annotation simple 
-Madagascar,Sud,1 000,3,annotation avancé
-Inde,Sud,50 000 ,2,moderation
-Inde,Sud,X,1.4,annotation
-Inde,Sud,X,5,annotation avancé
-USA,Nord,15 000,20,annotation
-USA,Nord,8 000,20,modération
-USA,Nord,7 000,60,annotation avancé
+Pays,Région,Salaire_heure (en $),Type_tache
+Kenya,Sud,1.5- 2 ,annotation simple/ modération
+Madagascar,Sud,1,annotation simple 
+Madagascar,Sud,3,annotation avancé
+Inde,Sud,2,moderation
+Inde,Sud,1.4,annotation
+Inde,Sud,5,annotation avancé
+USA,Nord,20,annotation
+USA,Nord,20,modération
+USA,Nord,60,annotation avancé
