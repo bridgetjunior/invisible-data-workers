@@ -17,3 +17,6 @@ python testing.py
 
 ## Data (`workers.csv`)
 Contains few rows covering countries, task types and hourly rates.
+
+## Site
+Click here to view the dashboard : <https://invisible-data-workers.streamlit.app/>
